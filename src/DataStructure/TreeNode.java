@@ -1,8 +1,6 @@
 package DataStructure;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
+import java.util.*;
 
 /**
  * User: 兴希
@@ -18,13 +16,19 @@ public class TreeNode {
     public TreeNode(int x) { val = x; }
 
     public static void main(String[] args) {
-        Stack<Integer> stack = new Stack<>();
-        stack.push(3);
-        stack.push(2);
-        stack.push(1);
-        System.out.println(stack);
-        List<Integer> list = new ArrayList<>(stack);
-        System.out.println(list);
+        List<Integer> tweetIds = new ArrayList<>();
+        tweetIds.addAll(Arrays.asList(1,6,2,4,85,3));
+        Collections.sort(tweetIds, new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                if (o1>o2){
+                    return -1;
+                }else {
+                    return 1;
+                }
+            }
+        });
+        System.out.println(tweetIds);
     }
 
 }
