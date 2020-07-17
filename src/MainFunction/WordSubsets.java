@@ -1,7 +1,9 @@
 package MainFunction;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * User: 兴希
@@ -14,16 +16,20 @@ import java.util.List;
  *              你可以按任意顺序以列表形式返回 A 中所有的通用单词。
  */
 public class WordSubsets {
-//    public List<String> wordSubsets(String[] A, String[] B) {
-//        List<String> stringList = new ArrayList<>();
-//        for (String a:A){
-//            for (String s:B){
-//                char[] chars = s.toCharArray();
-//                for (char c:chars){
-//
-//                }
-//            }
+    public static List<String> wordSubsets(String[] A, String[] B) {
+        List<String> stringList = new ArrayList<>();
+        Map<Character,Integer> mapA = new HashMap<>();
+        Map<Character,Integer> mapB = new HashMap<>();
+//        int[]
+//        for (String b:B){
+//            char[] chars = b.toCharArray();
+//            for
 //        }
-//
-//    }
+        return stringList;
+    }
+
+    public static void main(String[] args) {
+        List<String> stringList = wordSubsets(new String[]{"amazon", "apple", "facebook", "google", "leetcode"}, new String[]{"lo", "eo"});
+        System.out.println(stringList);
+    }
 }

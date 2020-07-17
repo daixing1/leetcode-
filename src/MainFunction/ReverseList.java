@@ -27,6 +27,28 @@ public class ReverseList {
         pre.next = null;
     }
 
+    public static ListNode reverseList1(ListNode head){
+        if (head==null){
+            return null;
+        }
+        if (head.next==null){
+            return head;
+        }
+        ListNode node = head;
+        ListNode pre = head.next;
+        head = head.next;
+        node.next=null;
+        while (head.next!=null){
+//            pre.next = null;
+            head = head.next;
+            pre.next = node;
+            node = pre;
+            pre = head;
+        }
+        pre.next = node;
+        return pre;
+    }
+
     public static void main(String[] args) {
         ListNode node1 = new ListNode(1);
         ListNode node2 = new ListNode(2);
@@ -37,6 +59,6 @@ public class ReverseList {
         node2.next = node3;
         node3.next = node4;
         node4.next = node5;
-        reverseList(node1);
+        reverseList1(node1);
     }
 }

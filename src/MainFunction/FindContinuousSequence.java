@@ -1,6 +1,7 @@
 package MainFunction;
 
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * User: 兴希
@@ -12,11 +13,39 @@ import java.util.ArrayList;
  *              为S的连续正数序列?
  */
 public class FindContinuousSequence {
-    public ArrayList<ArrayList<Integer>> findContinuousSequence(int sum) {
+    public static int[][] findContinuousSequence(int target) {
+        int sum = 0;
         ArrayList<ArrayList<Integer>> arrayLists = new ArrayList<>();
-        for (int i=2;i<(int)Math.sqrt(sum*2);i++){
-//            for ()
+        List<Integer> tmp = new ArrayList<>();
+        for (int i=1;i<target;i++){
+            sum+=i;
+            tmp.add(i);
+            if (tmp.size()==2&&sum>target){
+                break;
+            }
+            while (sum>target){
+                sum-=tmp.get(0);
+                tmp.remove(0);
+            }
+            if (sum==target){
+                arrayLists.add(new ArrayList<>(tmp));
+                sum-=tmp.get(0);
+                tmp.remove(0);
+            }
         }
-        return null;
+        int[][] res = new int[arrayLists.size()][];
+        for (int i=0;i<arrayLists.size();i++){
+            int[] row = new int[arrayLists.get(i).size()];
+            for (int j=0;j<arrayLists.get(i).size();j++){
+                row[j] = arrayLists.get(i).get(j);
+            }
+            res[i] = row;
+        }
+        return res;
+    }
+
+    public static void main(String[] args) {
+        int[][] continuousSequence = findContinuousSequence(9);
+        System.out.println(continuousSequence);
     }
 }

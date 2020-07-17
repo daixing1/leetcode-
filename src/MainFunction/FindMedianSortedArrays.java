@@ -11,33 +11,24 @@ package MainFunction;
 public class FindMedianSortedArrays {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         double mid = 0;
-        for (int i = (nums1.length-1)/2,j = (nums2.length-1)/2;i+j<(nums1.length+nums2.length)/2+1;){
-            if ((nums1.length+nums2.length)%2==0){
-                if (i+1+j+1==(nums1.length+nums2.length)/2-1){
-                    if (nums1[i]<nums2[j]){
-                        mid+=nums2[j];
-                    }else {
-                        mid+=nums2[i];
-                    }
-                }
-                if (i+1+j+1==(nums1.length+nums2.length)/2){
-                    if (nums1[i]<nums2[j]){
-                        mid+=nums2[j];
-                    }else {
-                        mid+=nums2[i];
-                    }
-                }
-            }else {
-                if (i+1+j+1==(nums1.length+nums2.length)/2){
-
-                }
-            }
-            if (nums1[i]<nums2[j]){
-                i++;
-            }else {
-                j++;
-            }
-        }
+        int count = (nums1.length+nums2.length)/2;
+        int i = nums1.length/2;
+        int j = nums2.length/2;
+//        while (true){
+//            if (i+j<count){
+//                if (nums1[i]<nums2[j]){
+//                    i = (i+nums1.length)/2;
+//                }else {
+//                    j = (j+nums2.length)/2;
+//                }
+//            }else if (i+j>count){
+//                if (nums1[i]<nums2[j]){
+//                    j = (i+nums1.length)/2;
+//                }else {
+//                    j = (j+nums2.length)/2;
+//                }
+//            }
+//        }
         return 0.0;
     }
 }

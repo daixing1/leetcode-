@@ -1,5 +1,8 @@
 package MainFunction;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * User: 兴希
  * Date: 2019/12/26
@@ -19,32 +22,37 @@ package MainFunction;
  */
 public class GetMaxRepetitions {
     public static int getMaxRepetitions(String s1, int n1, String s2, int n2) {
-        String S1 = s1.repeat(n1);
-        String S2 = s2.repeat(n2);
-        char[] chars1 = S1.toCharArray();
-        char[] chars2 = S2.toCharArray();
-        int count = 0;
-        int j=0;
-        for (int i=0;i<chars1.length;i++){
-            while (j<chars2.length) {
-                if (chars1[i]==chars2[j]){
-                    j++;
+
+        char[] chars1 = s1.toCharArray();
+        char[] chars2 = s2.toCharArray();
+        int count1 = 0;
+        int count2 = 0;
+        int p = 0;
+        Map<Integer,int[]> map = new HashMap<>();
+        while (count1<n1){
+            for (int i=0;i<chars1.length;i++){
+                if (chars1[i]==chars2[p]){
+                    p++;
                 }
-                if (j==chars2.length){
-                    j=0;
-                    count++;
+                if (p == chars2.length){
+                    p = 0;
+                    count2++;
                 }
-                break;
             }
-            if (i==chars1.length-1){
-                break;
+            count1++;
+            if (!map.containsKey(p)){
+                map.put(p,new int[]{count1,count2});
+            }else {
+                int[] ints = map.get(p);
+                count2 += ((n1-count1)/(count1-ints[0]))*(count2-ints[1]);
+                count1+= ((n1-count1)/(count1-ints[0]))*(count1-ints[0]);
             }
         }
-        return count;
+        return count2/n2;
     }
 
     public static void main(String[] args) {
-        int maxRepetitions = getMaxRepetitions("abc", 4, "ab", 2);
+        int maxRepetitions = getMaxRepetitions("baba", 11, "baab", 1);
         System.out.println(maxRepetitions);
     }
 }

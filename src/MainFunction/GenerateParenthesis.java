@@ -7,7 +7,7 @@ import java.util.List;
  * User: 兴希
  * Date: 2020/4/9
  * Time: 10:05
- * Description: No Description
+ * Description: 数字 n 代表生成括号的对数，请你设计一个函数，用于能够生成所有可能的并且 有效的 括号组合。
  */
 public class GenerateParenthesis {
     public static List<String> generateParenthesis(int n) {
@@ -49,8 +49,37 @@ public class GenerateParenthesis {
         }
     }
 
+    List<String> list;
+    public List<String> generateParenthesis1(int n) {
+        list = new ArrayList<>();
+        generate(n,n,new StringBuilder());
+        return list;
+    }
+
+    private void generate(int left, int right, StringBuilder s){
+        if (right==left&&left==0){
+            list.add(s.toString());
+            s.deleteCharAt(s.length()-1);
+            return;
+        }
+        if (left==right&&left>0){
+            generate(left-1,right,s.append("("));
+        }else {
+            if (left==0&&right>0){
+                generate(left,right-1,s.append(")"));
+            }else{
+                generate(left-1,right,s.append("("));
+                generate(left,right-1,s.append(")"));
+            }
+        }
+        if (s.length()!=0){
+            s.deleteCharAt(s.length()-1);
+        }
+    }
+
     public static void main(String[] args) {
-        List<String> stringList = generateParenthesis(3);
+        GenerateParenthesis generateParenthesis = new GenerateParenthesis();
+        List<String> stringList = generateParenthesis.generateParenthesis1(3);
         System.out.println(stringList);
     }
 }

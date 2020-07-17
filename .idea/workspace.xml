@@ -1,13 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/MainFunction/IsRectangleOverlap.java" line="12" />
+    <bookmark url="file://$PROJECT_DIR$/src/MainFunction/FindRestaurant.java" line="52" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="23b0c1dc-ed3c-44b4-b991-c53383d82b89" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/DataStructure/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/DataStructure/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/AddTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/IsStraight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/IsStraight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainFunction/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/DataStructure/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/DataStructure/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/FindContinuousSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/FindContinuousSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/FindMedianSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/FindMedianSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/GenerateParenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/GenerateParenthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/GetMaxRepetitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/GetMaxRepetitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/Insert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/Insert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/LengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/LengthOfLongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/MaxProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/MaxProfit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/MaxSlidingWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/MaxSlidingWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/NumberOfBoomerangs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/NumberOfBoomerangs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/ReverseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/Rotate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/Rotate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/MainFunction/WordSubsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/MainFunction/WordSubsets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/FindContinuousSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/FindContinuousSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/FindMedianSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/FindMedianSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/GenerateParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/GenerateParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/GetMaxRepetitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/GetMaxRepetitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/Insert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/LengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/LengthOfLongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/MaxProfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/MaxSlidingWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/MaxSlidingWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/NumberOfBoomerangs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/NumberOfBoomerangs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/Rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/Rotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFunction/WordSubsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFunction/WordSubsets.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,14 +50,26 @@
     <SUITE FILE_PATH="coverage/practice$Merge.ic" NAME="Merge Coverage Results" MODIFIED="1577354067054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>MainFunction.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/practice$IsNumber.ic" NAME="IsNumber Coverage Results" MODIFIED="1589855587212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>MainFunction.*</FILTER>
+    </SUITE>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LengthOfLongestSubstring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainFunction/LengthOfLongestSubstring.java">
+      <file leaf-file-name="LengthOfLIS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainFunction/LengthOfLIS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="50" />
+            <state relative-caret-position="124">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoinChange.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainFunction/CoinChange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,38 +77,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindMedianSortedArrays.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainFunction/FindMedianSortedArrays.java">
+      <file leaf-file-name="CountBits.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainFunction/CountBits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+            <state relative-caret-position="224">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Intersection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainFunction/Intersection.java">
+      <file leaf-file-name="Info.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CreateAnnotations/Info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="248">
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tictactoe.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainFunction/Tictactoe.java">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CreateAnnotations/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="29" selection-end-column="7" />
+            <state relative-caret-position="176">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Twitter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainFunction/Twitter.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CreateAnnotations/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1536">
-              <caret line="65" column="77" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="77" />
+            <state relative-caret-position="96">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,50 +116,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UpdateMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainFunction/UpdateMatrix.java">
+      <file leaf-file-name="AddBinary.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MainFunction/AddBinary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
+            <state relative-caret-position="397">
+              <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Insert.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MainFunction/Insert.java">
+      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="10">
+              <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure/TreeNode.java">
+      <file leaf-file-name="AccessibleObject.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/lang/reflect/AccessibleObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="226">
+              <caret line="515" column="19" selection-start-line="515" selection-start-column="19" selection-end-line="515" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/util/Map.java">
+      <file leaf-file-name="RetentionPolicy.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/lang/annotation/RetentionPolicy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5184">
-              <caret line="242" column="6" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Function.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/util/function/Function.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+            <state relative-caret-position="-206">
+              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -135,9 +164,18 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Interval</find>
+      <find>0</find>
+      <find>leng</find>
+      <find>t2Run</find>
+      <find>add</find>
+      <find>&quot;</find>
+      <find>]</find>
     </findStrings>
     <replaceStrings>
       <replace>int[]</replace>
+      <replace>'</replace>
+      <replace>{</replace>
+      <replace>}</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -146,57 +184,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MainFunction/LongestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/FindDisappearedNumbers.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/ReConstructBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/ReOrderArray.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/FindKthToTail.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/ReverseList.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/IsPopOrder.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/PrintFromTopToBottom.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/VerifySquenceOfBST.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/FindPath.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/NumberOf1Between1AndN.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/PrintMinNumber.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/GetUglyNumber.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/FirstNotRepeatingChar.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/InversePairs.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/FindContinuousSequence.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/FindNumbersWithSum.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/BalancedString.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/FindDup.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/StrToInt.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/DeleteDuplication.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/IsSymmetrical.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/PenExam1.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/PenExam.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/ThreadSafe.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/HasGroupsSizeX.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/MinimumLengthEncoding.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/SortArray.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/PartitionDisjoint.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/WordSubsets.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/MaxDepthAfterSplit.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/GameOfLife.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/MyAtoi.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/Trap.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure/LFU.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/LFUCache.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/MinDistance.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/Rotate.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/MovingCount.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/SearchMatrix.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/SortColors.java" />
+        <option value="$PROJECT_DIR$/src/SeqThread/TestCallable.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/SortArrayByParityII.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/SequentialDigits.java" />
         <option value="$PROJECT_DIR$/src/MainFunction/GenerateParenthesis.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/ReverseWord.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/ReverseWords.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/TwoDigitaSum.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/LengthOfLongestSubstring.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/FindMedianSortedArrays.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/Intersection.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/Tictactoe.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/Twitter.java" />
-        <option value="$PROJECT_DIR$/src/MainFunction/UpdateMatrix.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/MinimumTotal.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/UniquePaths.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/MinPathSum.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/LeastInterval.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/FindUnsortedSubarray.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/MinFlips.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/Codec.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/MaxAncestorDiff.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/DetectCycle.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/SortList.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/GetIntersectionNode.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/MajorityElement.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/CanFinish.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/Game.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/MinSteps.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/NumSubmat.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/NumSubarrayProductLessThanK.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/Trie.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/InvertTree.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/IsPalindromeList.java" />
+        <option value="$PROJECT_DIR$/src/Serial/JavaSerialize.java" />
+        <option value="$PROJECT_DIR$/src/Serial/User.java" />
+        <option value="$PROJECT_DIR$/src/Serial/JsonSerialize.java" />
+        <option value="$PROJECT_DIR$/src/DesignPatterns/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/DesignPatterns/CheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/DesignPatterns/PepperPizza.java" />
+        <option value="$PROJECT_DIR$/src/DesignPatterns/AbsFactory.java" />
+        <option value="$PROJECT_DIR$/src/DesignPatterns/BJFactory.java" />
+        <option value="$PROJECT_DIR$/src/DesignPatterns/WHFactory.java" />
+        <option value="$PROJECT_DIR$/src/DesignPatterns/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/FindRelativeRanks.java" />
         <option value="$PROJECT_DIR$/src/MainFunction/Insert.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/ToHex.java" />
+        <option value="$PROJECT_DIR$/src/DesignPatterns/Mail.java" />
+        <option value="$PROJECT_DIR$/src/DesignPatterns/EventTemplate.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/SearchInsert.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/MoveZeroes.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/LengthOfLIS.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/CoinChange.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/CountBits.java" />
+        <option value="$PROJECT_DIR$/src/CreateAnnotations/Annotations.java" />
+        <option value="$PROJECT_DIR$/src/CreateAnnotations/DoSomeThing.java" />
+        <option value="$PROJECT_DIR$/src/CreateAnnotations/Test.java" />
+        <option value="$PROJECT_DIR$/src/CreateAnnotations/Person.java" />
+        <option value="$PROJECT_DIR$/src/MainFunction/AddBinary.java" />
       </list>
     </option>
   </component>
@@ -206,10 +244,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1390" />
@@ -223,9 +267,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,13 +283,20 @@
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="CreateAnnotations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Hard" type="462c0819:PsiDirectoryNode" />
+              <item name="CreateAnnotations" type="462c0819:PsiDirectoryNode" />
+              <item name="Test.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
@@ -256,19 +304,39 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MainFunction" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SeqThread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Serial" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/迅雷下载/IntelligenceAnalyzer-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../applytest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DesignPatterns" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -282,9 +350,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Insert">
-    <configuration name="Insert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainFunction.Insert" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainFunction.CoinChange" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -294,8 +362,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainFunction.LengthOfLongestSubstring" />
+    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainFunction.MoveZeroes" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -305,19 +373,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.TreeNode" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Twitter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainFunction.Twitter" />
+    <configuration name="SearchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainFunction.SearchInsert" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -327,8 +384,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="UpdateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainFunction.UpdateMatrix" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreateAnnotations.Test" />
+      <module name="practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreateAnnotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ToHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainFunction.ToHex" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -380,19 +448,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.LengthOfLongestSubstring" />
-      <item itemvalue="Application.Twitter" />
-      <item itemvalue="Application.TreeNode" />
-      <item itemvalue="Application.UpdateMatrix" />
-      <item itemvalue="Application.Insert" />
+      <item itemvalue="Application.ToHex" />
+      <item itemvalue="Application.SearchInsert" />
+      <item itemvalue="Application.MoveZeroes" />
+      <item itemvalue="Application.CoinChange" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Insert" />
-        <item itemvalue="Application.UpdateMatrix" />
-        <item itemvalue="Application.Twitter" />
-        <item itemvalue="Application.TreeNode" />
-        <item itemvalue="Application.LengthOfLongestSubstring" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.CoinChange" />
+        <item itemvalue="Application.MoveZeroes" />
+        <item itemvalue="Application.SearchInsert" />
+        <item itemvalue="Application.ToHex" />
       </list>
     </recent_temporary>
   </component>
@@ -458,11 +526,103 @@
       <workItem from="1586867939054" duration="599000" />
       <workItem from="1586931779459" duration="3904000" />
       <workItem from="1586997672794" duration="6689000" />
+      <workItem from="1587016557877" duration="173000" />
+      <workItem from="1587017926264" duration="23000" />
+      <workItem from="1587276603058" duration="3508000" />
+      <workItem from="1587346560649" duration="7234000" />
+      <workItem from="1587365513344" duration="980000" />
+      <workItem from="1587434255319" duration="8890000" />
+      <workItem from="1587521913936" duration="2782000" />
+      <workItem from="1587604980729" duration="5031000" />
+      <workItem from="1587719898025" duration="916000" />
+      <workItem from="1587781606134" duration="4676000" />
+      <workItem from="1587868428172" duration="6949000" />
+      <workItem from="1587953096520" duration="6994000" />
+      <workItem from="1588039403969" duration="5373000" />
+      <workItem from="1588122004932" duration="2275000" />
+      <workItem from="1588125419388" duration="15177000" />
+      <workItem from="1588297921978" duration="3381000" />
+      <workItem from="1588389244972" duration="6720000" />
+      <workItem from="1588471886272" duration="5465000" />
+      <workItem from="1588557842448" duration="9144000" />
+      <workItem from="1588642453786" duration="9819000" />
+      <workItem from="1588727833228" duration="8764000" />
+      <workItem from="1588812382350" duration="8088000" />
+      <workItem from="1588902198069" duration="7874000" />
+      <workItem from="1588983003896" duration="9390000" />
+      <workItem from="1589073094642" duration="5293000" />
+      <workItem from="1589175469794" duration="128000" />
+      <workItem from="1589242670334" duration="6700000" />
+      <workItem from="1589423021167" duration="2972000" />
+      <workItem from="1589506193614" duration="7037000" />
+      <workItem from="1589600234931" duration="6263000" />
+      <workItem from="1589682912784" duration="3818000" />
+      <workItem from="1589761947778" duration="4956000" />
+      <workItem from="1589848788296" duration="6344000" />
+      <workItem from="1589960689450" duration="10218000" />
+      <workItem from="1590019536254" duration="4126000" />
+      <workItem from="1590104029501" duration="8430000" />
+      <workItem from="1590194356428" duration="6896000" />
+      <workItem from="1590280568907" duration="11816000" />
+      <workItem from="1590366487178" duration="5096000" />
+      <workItem from="1590452908977" duration="8115000" />
+      <workItem from="1590540256240" duration="7588000" />
+      <workItem from="1590625143572" duration="11064000" />
+      <workItem from="1590704843976" duration="10973000" />
+      <workItem from="1590845016309" duration="10120000" />
+      <workItem from="1590893838106" duration="5222000" />
+      <workItem from="1590970559838" duration="6435000" />
+      <workItem from="1591061483617" duration="8785000" />
+      <workItem from="1591143294022" duration="8035000" />
+      <workItem from="1591229434507" duration="9014000" />
+      <workItem from="1591314539282" duration="12433000" />
+      <workItem from="1591408224252" duration="7809000" />
+      <workItem from="1591491982832" duration="9457000" />
+      <workItem from="1591578615655" duration="8968000" />
+      <workItem from="1591667274925" duration="6311000" />
+      <workItem from="1591752561687" duration="4191000" />
+      <workItem from="1591855801808" duration="8188000" />
+      <workItem from="1591926199640" duration="3749000" />
+      <workItem from="1592013686263" duration="8402000" />
+      <workItem from="1592098169586" duration="7417000" />
+      <workItem from="1592181007165" duration="5001000" />
+      <workItem from="1592272024160" duration="4809000" />
+      <workItem from="1592352516965" duration="4630000" />
+      <workItem from="1592959691855" duration="8538000" />
+      <workItem from="1593047016817" duration="9330000" />
+      <workItem from="1593129430319" duration="8670000" />
+      <workItem from="1593217359677" duration="8137000" />
+      <workItem from="1593303915696" duration="10194000" />
+      <workItem from="1593392925828" duration="6292000" />
+      <workItem from="1593477516798" duration="2354000" />
+      <workItem from="1593565753901" duration="4325000" />
+      <workItem from="1593740122058" duration="7359000" />
+      <workItem from="1593767829995" duration="2096000" />
+      <workItem from="1593832086897" duration="1123000" />
+      <workItem from="1593914907081" duration="6928000" />
+      <workItem from="1594035621399" duration="7418000" />
+      <workItem from="1594084124155" duration="6451000" />
+      <workItem from="1594102313230" duration="3691000" />
+      <workItem from="1594124283402" duration="395000" />
+      <workItem from="1594170341579" duration="11728000" />
+      <workItem from="1594258433250" duration="6559000" />
+      <workItem from="1594342807892" duration="15280000" />
+      <workItem from="1594477188980" duration="6266000" />
+      <workItem from="1594517953856" duration="19574000" />
+      <workItem from="1594601684979" duration="9901000" />
+      <workItem from="1594650030984" duration="4086000" />
+      <workItem from="1594686018485" duration="9382000" />
+      <workItem from="1594735606501" duration="5447000" />
+      <workItem from="1594776822608" duration="9702000" />
+      <workItem from="1594816410493" duration="5089000" />
+      <workItem from="1594861053585" duration="3661000" />
+      <workItem from="1594879827232" duration="15797000" />
+      <workItem from="1594950369706" duration="7421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="245794000" />
+    <option name="totallyTimeSpent" value="875423000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -483,21 +643,21 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18565401" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.123769335" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31082982" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.14767933" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23525469" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26541555" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.13642757" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.17440225" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -619,12 +779,6 @@
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MainFunction/GetMaxRepetitions.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="111" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MainFunction/Merge2.java</url>
           <line>37</line>
           <properties />
@@ -647,12 +801,6 @@
           <line>23</line>
           <properties />
           <option name="timeStamp" value="120" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MainFunction/RemoveDuplicates.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MainFunction/RemoveSubfolders.java</url>
@@ -737,24 +885,6 @@
           <line>12</line>
           <properties />
           <option name="timeStamp" value="179" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MainFunction/ReverseList.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="180" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MainFunction/ReverseList.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="181" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MainFunction/ReverseList.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="183" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MainFunction/IsPopOrder.java</url>
@@ -925,12 +1055,6 @@
           <option name="timeStamp" value="246" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MainFunction/LengthOfLongestSubstring.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="247" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MainFunction/Twitter.java</url>
           <line>87</line>
           <properties />
@@ -955,17 +1079,1126 @@
           <option name="timeStamp" value="257" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MainFunction/Insert.java</url>
+          <url>file://$PROJECT_DIR$/src/MainFunction/GetMaxRepetitions.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/IsValid.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/NumberOfSubarrays.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/NumberOfSubarrays.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReconstructMatrix.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReconstructMatrix.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReconstructMatrix.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReconstructMatrix.java</url>
           <line>36</line>
           <properties />
-          <option name="timeStamp" value="260" />
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/WaysToChange.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Permute.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Permute.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Search.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Search.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReverseList.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindInMountainArray.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindInMountainArray.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindSwapValues.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/LongestWord.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/LongestWord.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/DecodeAtIndex.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/TwoCitySchedCost.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MaxSubArray.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Jump.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Jump.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/LevelOrder.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindClosest.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReconstructQueue.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReconstructQueue.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MaximalSquare.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MaximalSquare.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MaximalSquare.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MaximalSquare.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/GetHint.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SortArrayByParityII.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CheckPossibility.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CheckIfCanBreak.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ClosestDivisors.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/AddToArrayForm.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/OneEditAway.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReverseKGroup.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReverseKGroup.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindOrder.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindOrder.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="364" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindOrder.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindOrder.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReachingPoints.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/NumberOfBoomerangs.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/NumberOfBoomerangs.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/LongestWPI.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ValidIPAddress.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindTheLongestSubstring.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindTheLongestSubstring.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindTheLongestSubstring.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="385" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CanReach.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MinWindow.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/LargestNumber.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/LRUCache.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/LRUCache.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/LRUCache.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindMaximizedCapital.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/NumSmallerByFrequency.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/EraseOverlapIntervals.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/DecodeString.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/DecodeString.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ConstrainedSubsetSum.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MaxSatisfaction.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/PredictPartyVictory.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CanCompleteCircuit.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/TopVotedCandidate.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/IsSymmetric.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MyQueue.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MyQueue.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MyQueue.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Convert.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SearchRange.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SearchRange.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SearchRange.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/PermuteUnique.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/PermuteUnique.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Rotate.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ProductExceptSelf.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="441" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/RemoveDuplicates.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/RemoveDuplicates.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="446" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/IsValidSudoku.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="448" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SpiralOrder.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="449" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/IsMatch2.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/IsMatch2.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindContinuousSequence.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindContinuousSequence.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="453" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CuttingRope.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="459" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/LongestConsecutive.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="461" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/AddOneRow.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SubarrayBitwiseORs.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="465" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ShortestSeq.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ShortestSeq.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="469" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/IsNumber.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Exchange.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/GetKthFromEnd.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/GetKthFromEnd.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/TranslateNum.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MinArray.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/DailyTemperatures.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="486" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/DailyTemperatures.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CountVowelPermutation.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ThreeSum.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindRestaurant.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindRestaurant.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="499" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/StreamRank.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="503" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CheckValidString.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="509" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ShortestSubarray.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="511" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/StockSpanner.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="514" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindShortestSubArray.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="517" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SumFourDivisors.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="520" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/EntityParser.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="522" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindItinerary.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="531" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindItinerary.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="532" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SplitListToParts.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="533" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/AsteroidCollision.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="534" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/AsteroidCollision.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/TopKFrequent.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="541" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/TopKFrequent.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="542" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/BinaryGap.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="546" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CommonChars.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="547" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/LargestIsLand.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="548" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SortedArrayToBST.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="550" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReorganizeString.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReorganizeString.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="555" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReorganizeString.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="556" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ReorganizeString.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="557" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jdkProxy/JdkProxy.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="560" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jdkProxy/UserServiceHandler.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="561" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>552</line>
+          <properties />
+          <option name="timeStamp" value="562" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/GrayCode.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="566" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/GrayCode.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="567" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindPaths.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="574" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/IsNStraightHand.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="576" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ContainVirus.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="583" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SumEvenGrandparent.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="587" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SumEvenGrandparent.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="589" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/FindLongestChain.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="590" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Respace.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="591" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MergeTrees.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="594" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MaxProfitI.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="595" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CustomStack.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="596" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CustomStack.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="597" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CustomStack.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="598" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CustomStack.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="599" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Domino.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="600" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Domino.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="601" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/RemoveNthFromEnd.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="606" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/RemoveNthFromEnd.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="607" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Flatten.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="611" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/CalculateMinimumHP.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="612" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MaxPathSum.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="614" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MaxPathSum.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="617" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Subsets1.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="618" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/NextPermutation.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="621" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/NextPermutation.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="623" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/NextPermutation.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="624" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/PeekingIteratorI.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="625" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Largest1BorderedSquareI.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="631" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Intersect.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="632" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MaximalRectangle.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="633" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/NumTrees.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="634" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SortColors.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="636" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SequentialDigits.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="642" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SequentialDigits.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="646" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SequentialDigits.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="648" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MinimumTotal.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="650" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/LeastInterval.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="657" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MinFlips.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="659" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MaxAncestorDiff.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="662" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/NumSubmat.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="677" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Trie.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="678" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Trie.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="679" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Trie.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="680" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Trie.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="681" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/IsPalindromeList.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="682" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Insert.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="683" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/Insert.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="685" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ToHex.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="686" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/ToHex.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="687" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/SearchInsert.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="688" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MoveZeroes.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="689" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainFunction/MoveZeroes.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="692" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="263" />
+      <option name="time" value="695" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>aa==524</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>i==18</expression-string>
         <language-id>JAVA</language-id>
@@ -979,372 +2212,360 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/FindDisappearedNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="456">
+          <caret line="19" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/BalancedString.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/MinSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        <state relative-caret-position="360">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/FindKthToTail.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/NumSubmat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        <state relative-caret-position="672">
+          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/FindDup.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/NumTrees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="576">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/DeleteDuplication.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="49" column="41" selection-start-line="43" selection-start-column="8" selection-end-line="49" selection-end-column="41" />
+        <state relative-caret-position="55776">
+          <caret line="2556" column="33" selection-start-line="2556" selection-start-column="33" selection-end-line="2556" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/util/Queue.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2496">
-          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
+        <state relative-caret-position="13128">
+          <caret line="589" column="19" selection-start-line="589" selection-start-column="19" selection-end-line="589" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/util/ArrayDeque.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/NumSubarrayProductLessThanK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3480">
-          <caret line="181" column="11" selection-start-line="181" selection-start-column="11" selection-end-line="181" selection-end-column="11" />
+        <state relative-caret-position="600">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/IsSymmetrical.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/PenExam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/PenExam1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/ThreadSafe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/TraNaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/SumNums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/SubTree.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/IsBalanced.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/StrToInt.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/IsBipartite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+        <state relative-caret-position="984">
+          <caret line="44" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/RestoreIpAddresses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/RepeatedStringMatch.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/ReOrderArray.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/InvertTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="19" column="13" selection-start-line="17" selection-start-column="12" selection-end-line="19" selection-end-column="13" />
+          <caret line="19" column="25" selection-start-line="15" selection-start-column="8" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/IsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3336">
-          <caret line="165" column="11" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
+        <state relative-caret-position="220">
+          <caret line="495" column="19" selection-start-line="495" selection-start-column="19" selection-end-line="495" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/HasGroupsSizeX.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="79" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="79" />
+        <state relative-caret-position="228">
+          <caret line="340" column="19" selection-start-line="340" selection-start-column="19" selection-end-line="340" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/MinimumLengthEncoding.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="42" column="9" selection-start-line="22" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
+        <state relative-caret-position="172">
+          <caret line="264" column="12" selection-start-line="264" selection-start-column="12" selection-end-line="264" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/SortArray.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/io/Serializable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="51" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
+        <state relative-caret-position="469">
+          <caret line="178" column="17" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/PartitionDisjoint.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/IsPalindromeList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/WordSubsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="27" column="7" selection-start-line="16" selection-start-column="6" selection-end-line="27" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/MaxDepthAfterSplit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1872">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/GameOfLife.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/MyAtoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="49" selection-start-line="49" selection-end-line="51" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/Trap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="36" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/LFU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/LFUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1128">
-          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/MinDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/Rotate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="44" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/MovingCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/GenerateParenthesis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="28" column="15" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/ReverseLeftWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/ReverseWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/ReverseWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/TwoDigitaSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        <state relative-caret-position="336">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/LengthOfLongestSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/Serial/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/FindMedianSortedArrays.java">
+    <entry file="file://$PROJECT_DIR$/src/Serial/JavaSerialize.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        <state relative-caret-position="120">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/Intersection.java">
+    <entry file="file://$PROJECT_DIR$/src/Serial/JsonSerialize.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="106">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/Tictactoe.java">
+    <entry file="file://$PROJECT_DIR$/src/DesignPatterns/Pizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="29" selection-end-column="7" />
+        <state relative-caret-position="178">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/util/function/Function.java">
+    <entry file="file://$PROJECT_DIR$/src/DesignPatterns/WHFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        <state relative-caret-position="274">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/util/Map.java">
+    <entry file="file://$PROJECT_DIR$/src/DesignPatterns/AbsFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5184">
-          <caret line="242" column="6" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="6" />
+        <state relative-caret-position="178">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/DesignPatterns/BJFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        <state relative-caret-position="178">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/Twitter.java">
+    <entry file="file://$PROJECT_DIR$/src/DesignPatterns/CheesePizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1536">
-          <caret line="65" column="77" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="107">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFunction/UpdateMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/DesignPatterns/PepperPizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="35">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPatterns/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/FindRelativeRanks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MainFunction/Insert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        <state relative-caret-position="2592">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPatterns/EventTemplate.java" />
+    <entry file="file://$PROJECT_DIR$/src/DesignPatterns/Mail.java" />
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/ToHex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2472">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdkProxy/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdkProxy/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdkProxy/UserServiceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdkProxy/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23832">
+          <caret line="993" column="25" selection-start-line="993" selection-start-column="25" selection-end-line="993" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25512">
+          <caret line="1063" column="22" selection-start-line="1063" selection-start-column="22" selection-end-line="1063" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdkProxy/JdkProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/SearchInsert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/MoveZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/LengthOfLIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/CoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/CountBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/lang/annotation/RetentionPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/lang/reflect/AccessibleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="515" column="19" selection-start-line="515" selection-start-column="19" selection-end-line="515" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateAnnotations/Info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateAnnotations/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateAnnotations/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFunction/AddBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
         </state>
       </provider>
     </entry>
