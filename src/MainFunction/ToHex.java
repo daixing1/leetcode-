@@ -99,7 +99,7 @@ public class ToHex {
             String ans = "";
 
             while(num!=0 && ans.length() < 8){
-                ans = hex.charAt(num & 0xf) + ans ;
+                ans = hex.charAt(num & 15) + ans ;
                 num >>= 4;
             }
             return ans;

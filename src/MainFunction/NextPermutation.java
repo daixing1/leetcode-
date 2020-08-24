@@ -16,36 +16,34 @@ import java.util.Arrays;
  */
 public class NextPermutation {
     public void nextPermutation(int[] nums) {
-        if (nums==null||nums.length<2){
-            return;
+        int i = nums.length-2;
+        while (i>=0&&nums[i]>=nums[i+1]){
+            i--;
         }
-        int tmp = nums[0];
-        boolean flag = true;
-        for (int i=1;i<nums.length;i++){
-            if (tmp<nums[i]){
-                flag = false;
-                break;
+        int j = i+1;
+        if (i>=0){
+            while (j<nums.length&&nums[i]<=nums[j]){
+                j++;
             }
+            swap(nums,i,j-1);
+        }
+        reverse(nums,i+1,nums.length-1);
+    }
+
+    private void swap(int[] nums, int i, int j){
+        int tmp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = tmp;
+    }
+
+    private void reverse(int[] nums, int i, int j){
+        int tmp = 0;
+        while (i<j){
             tmp = nums[i];
-        }
-        if (flag){
-            for (int i=0;i<nums.length/2;i++){
-                tmp = nums[i];
-                nums[i] = nums[nums.length-1-i];
-                nums[nums.length-1-i] = tmp;
-            }
-            return;
-        }
-        for (int i=nums.length-1;i>=0;i--){
-            tmp = nums[i];
-            for (int j=i-1;j>=0;j--){
-                if (tmp>nums[j]){
-                    nums[i] = nums[j];
-                    nums[j] = tmp;
-                    Arrays.sort(nums,j+1,nums.length);
-                    return;
-                }
-            }
+            nums[i] = nums[j];
+            nums[j] = tmp;
+            i++;
+            j--;
         }
     }
 

@@ -29,7 +29,9 @@ public class WordSubsets {
     }
 
     public static void main(String[] args) {
-        List<String> stringList = wordSubsets(new String[]{"amazon", "apple", "facebook", "google", "leetcode"}, new String[]{"lo", "eo"});
-        System.out.println(stringList);
+//        List<String> stringList = wordSubsets(new String[]{"amazon", "apple", "facebook", "google", "leetcode"}, new String[]{"lo", "eo"});
+//        System.out.println(stringList);
+        String[] ns = "a".split("n");
+        System.out.println();
     }
 }

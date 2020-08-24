@@ -14,8 +14,11 @@ import java.util.Map;
  */
 public class LetterCombinations {
     List<String> res = new ArrayList<>();
+    Map<Integer, String> map = new HashMap<>();
     public List<String> letterCombinations(String digits) {
-        Map<Integer, String> map = new HashMap<>();
+        if (digits==null||digits.length()==0){
+            return res;
+        }
         map.put(2,"abc");
         map.put(3,"def");
         map.put(4,"ghi");
@@ -24,32 +27,27 @@ public class LetterCombinations {
         map.put(7,"pqrs");
         map.put(8,"tuv");
         map.put(9,"wxyz");
-        List<String> charList= new ArrayList<>();
-        for (int i=0;i<digits.length();i++){
-            charList.add(map.get(digits.charAt(i)-'0'));
-        }
+        traverse(new StringBuilder(),digits);
         return res;
     }
 
-    private void traverse(List<String> stringList, List<Integer> indexs, StringBuilder s, int index){
-        if (s.length()==stringList.size()){
-            res.add(s.toString());
+    private void traverse(StringBuilder s, String digits){
+        if ("".equals(digits)){
+            res.add(new String(s));
+            return;
+        }
+        String s1 = map.get(Integer.valueOf(digits.substring(0, 1)));
+        digits = digits.substring(1);
+        for (int i=0;i<s1.length();i++){
+            s.append(s1.charAt(i));
+            traverse(s,digits);
             s.deleteCharAt(s.length()-1);
         }
-        for (int i=indexs.get(index);i<stringList.get(index).length();i++){
-            s.append(stringList.get(i).charAt(indexs.get(i)));
-            indexs.set(i,indexs.get(i)+1);
-            if (indexs.get(i)<stringList.get(i).length()){
-                traverse(stringList,indexs,s,index);
-            }else {
-                traverse(stringList,indexs,s,index);
-            }
-
-        }
-
     }
 
     public static void main(String[] args) {
-
+        LetterCombinations letterCombinations = new LetterCombinations();
+        List<String> list = letterCombinations.letterCombinations("23");
+        System.out.println(list);
     }
 }

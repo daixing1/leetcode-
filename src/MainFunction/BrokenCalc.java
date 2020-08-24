@@ -40,6 +40,22 @@ public class BrokenCalc {
         return dp[Y];
     }
 
+    public int brokenCalc1(int X, int Y) {
+        if (X==Y){
+            return 0;
+        }
+        int count = 0;
+        while (Y>X){
+            if ((Y&1)==1){
+                Y+=1;
+                count++;
+            }
+            Y/=2;
+            count++;
+        }
+        return count+X-Y;
+    }
+
     public static void main(String[] args) {
         int i = brokenCalc(5, 8);
         System.out.println(i);

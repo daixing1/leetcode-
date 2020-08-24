@@ -14,10 +14,73 @@ import java.util.Comparator;
  *                  1 ≤ m ≤ min(50, n)
  */
 public class SplitArray {
-//    public int splitArray(int[] nums, int m) {
-//        if (m==nums.length){
-//            return Arrays.stream(nums).boxed().max(Comparator.comparingInt(o -> o)).get();
+    public int splitArray(int[] nums, int m) {
+        if (m==nums.length){
+            return Arrays.stream(nums).max().getAsInt();
+        }
+        int[][] dp = new int[nums.length+1][m+1];
+        for (int[] arr:dp){
+            Arrays.fill(arr,Integer.MAX_VALUE);
+        }
+//        int max = 0;
+//        for (int i=0;i<m;i++){
+//            max = Math.max(max,nums[i]);
+//            dp[i][i] = max;
 //        }
-//
-//    }
+        int[] prefix = new int[nums.length+1];
+        for (int i=0;i<nums.length;i++){
+            prefix[i+1] = prefix[i]+nums[i];
+        }
+        dp[0][0] = 0;
+        for (int i=1;i<=nums.length;i++){
+            for (int j=1;j<=Math.min(i,m);j++){
+                for (int k=0;k<i;k++){
+                    dp[i][j] = Math.min(Math.max(dp[k][j-1],prefix[i]-prefix[k]),dp[i][j]);
+                }
+            }
+        }
+        return dp[nums.length][m];
+    }
+
+    public int splitArray1(int[] nums, int m) {
+        int min = Arrays.stream(nums).max().getAsInt();
+        int max = Arrays.stream(nums).sum();
+        if (nums.length==m){
+            return min;
+        }
+        if (m==1){
+            return max;
+        }
+        boolean flag = false;
+        int sum = 0;
+        int count = 0;
+        while (min<max){
+            sum = 0;
+            count = 0;
+            int mid = (max+min)/2;
+            for (int i=0;i<nums.length;i++){
+                sum+=nums[i];
+                if (sum>mid){
+                    sum = nums[i];
+                    count++;
+                    if (count>m){
+                        break;
+                    }
+                }
+            }
+            count++;
+            if (count>m){
+                min = mid+1;
+            }else if (count<=m){
+                max = mid;
+            }
+        }
+        return max;
+    }
+
+    public static void main(String[] args) {
+        SplitArray splitArray = new SplitArray();
+        int i = splitArray.splitArray1(new int[]{7,2,5,10,8}, 2);
+        System.out.println(i);
+    }
 }

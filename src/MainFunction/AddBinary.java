@@ -52,8 +52,50 @@ public class AddBinary {
         return res;
     }
 
+    public String addBinary1(String a, String b) {
+        if (a.length()*b.length()==0){
+            return a.length()==0?b:a;
+        }
+        if (a.length()>b.length()){
+            return addBinary1(b,a);
+        }
+        int count = 0;
+        int i=a.length()-1,j=b.length()-1;
+        StringBuilder s = new StringBuilder();
+        while (i>=0&&j>=0){
+            int m = a.charAt(i)-'0';
+            int n = b.charAt(j)-'0';
+            if (m+n+count>1){
+                s.insert(0,String.valueOf(m+n+count-2));
+                count = 1;
+            }else {
+                s.insert(0,String.valueOf(m+n+count));
+                count=0;
+            }
+            i--;
+            j--;
+        }
+        while (j>=0){
+            int n = b.charAt(j)-'0';
+            if (n+count>1){
+                s.insert(0,String.valueOf(n+count-2));
+                count = 1;
+            }else {
+                s.insert(0,String.valueOf(n+count));
+                count=0;
+            }
+            j--;
+        }
+        if (count==1){
+            s.insert(0,1);
+        }
+        return s.toString();
+    }
+
     public static void main(String[] args) {
+        AddBinary addBinary = new AddBinary();
+        String s1 = addBinary.addBinary1("11", "1");
         String s = addBinary("11", "1");
-        System.out.println(s);
+        System.out.println(s1);
     }
 }

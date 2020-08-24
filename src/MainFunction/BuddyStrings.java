@@ -1,7 +1,9 @@
 package MainFunction;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 /**
  * User: 兴希
@@ -12,15 +14,35 @@ import java.util.List;
  */
 public class BuddyStrings {
     public boolean buddyStrings(String A, String B) {
-        if (A.length()!=B.length()){
+        if (A.length()!=B.length()||A.length()<2){
             return false;
         }
+        Set<Character> set = new HashSet<>();
         List<Integer> list = new ArrayList<>();
         for (int i=0;i<A.length();i++){
+            set.add(A.charAt(i));
             if (A.charAt(i)!=B.charAt(i)){
                 list.add(i);
             }
+            if (list.size()>2){
+                return false;
+            }
+
         }
-        return true;
+        if (A.length()>set.size()&&list.size()==0){
+            return true;
+        }
+        if (list.size()==2){
+            if (A.charAt(list.get(0))==B.charAt(list.get(1))&&A.charAt(list.get(1))==B.charAt(list.get(0))){
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public static void main(String[] args) {
+        BuddyStrings buddyStrings = new BuddyStrings();
+        boolean b = buddyStrings.buddyStrings("abab", "abab");
+        System.out.println(b);
     }
 }

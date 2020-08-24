@@ -2,10 +2,8 @@ package MainFunction;
 
 import DataStructure.TreeNode;
 
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.*;
+import java.util.concurrent.*;
 
 /**
  * User: 兴希
@@ -68,7 +66,25 @@ public class MaxAncestorDiff {
 //        }
 //    }
 
+    int max = 0;
+    public int maxAncestorDiff1(TreeNode root) {
+        traverse(root,new ArrayList<>());
+        return max;
+    }
 
+    private void traverse(TreeNode root, List<Integer> list){
+        if (root==null){
+            return;
+        }
+        for (int n:list){
+            max = Math.max(max,Math.abs(root.val-n));
+        }
+        list.add(root.val);
+        traverse(root.left,list);
+//        list.remove(list.size()-1);
+        traverse(root.right,list);
+//        list.remove(list.size()-1);
+    }
 
 
 
@@ -76,6 +92,12 @@ public class MaxAncestorDiff {
 
 
     public static void main(String[] args) {
+//        ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor();
+//        ExecutorService executorService = Executors.newSingleThreadExecutor();
+//        ExecutorService executorService1 = Executors.newCachedThreadPool();
+//        ExecutorService executorService2 = Executors.newFixedThreadPool(0);
+//        ScheduledExecutorService scheduledExecutorService = Executors.newScheduledThreadPool(1);
+//        ScheduledExecutorService scheduledExecutorService1 = Executors.newSingleThreadScheduledExecutor();
         MaxAncestorDiff maxAncestorDiff = new MaxAncestorDiff();
         TreeNode node1 = new TreeNode(8);
         TreeNode node2 = new TreeNode(3);

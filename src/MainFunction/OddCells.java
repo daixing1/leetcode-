@@ -31,4 +31,32 @@ public class OddCells {
         }
         return count;
     }
+
+    public int oddCells1(int n, int m, int[][] indices) {
+        int num = 0;
+        for (int i=0;i<n;i++){
+            for (int j=0;j<m;j++){
+                int count = 0;
+                for (int k=0;k<indices.length;k++){
+                    if (indices[k][0]==i){
+                        count++;
+                    }
+                    if (indices[k][1]==j){
+                        count++;
+                    }
+                }
+                if ((count&1)==1){
+                    num++;
+                }
+            }
+        }
+        return num;
+    }
+
+    public static void main(String[] args) {
+        OddCells oddCells = new OddCells();
+
+        int i = oddCells.oddCells1(2, 3, new int[][]{{0, 1}, {1, 1}});
+        System.out.println(i);
+    }
 }

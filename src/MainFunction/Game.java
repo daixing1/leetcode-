@@ -18,4 +18,8 @@ public class Game {
         }
         return count;
     }
+
+    public static void main(String[] args) {
+
+    }
 }

@@ -1,7 +1,9 @@
 package MainFunction;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 /**
  * User: 兴希
@@ -30,5 +32,46 @@ public class IsHappy {
             return true;
         }
         return isHappy(m);
+    }
+
+    public boolean isHappy1(int n) {
+        if (n==1){
+            return true;
+        }
+        if (n==0){
+            return false;
+        }
+        Set<Integer> set = new HashSet<>();
+        set.add(n);
+        int num = n;
+        while (num!=1){
+            List<Integer> allDigita = getAllDigita(num);
+            num = 0;
+            for (int m:allDigita){
+                num+=Math.pow(m,2);
+            }
+            if (set.contains(num)){
+                return false;
+            }else {
+                set.add(num);
+            }
+        }
+        return true;
+    }
+
+    private List<Integer> getAllDigita(int n){
+        List<Integer> list = new ArrayList<>();
+        while (n>9){
+            list.add(n%10);
+            n/=10;
+        }
+        list.add(n);
+        return list;
+    }
+
+    public static void main(String[] args) {
+        IsHappy isHappy = new IsHappy();
+        boolean happy1 = isHappy.isHappy1(1);
+        System.out.println(happy1);
     }
 }

@@ -10,14 +10,9 @@ import DataStructure.TreeNode;
  *              本题中，路径被定义为一条从树中任意节点出发，达到任意节点的序列。该路径至少包含一个节点，且不一定经过根节点。
  */
 public class MaxPathSum {
-    int tmp = 0;
+    int max = Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
-        int max = getMax(root);
-        max = Math.max(tmp,max);
-        if (max==0) {
-            tmp = root.val;
-            max = getMaxNodeValue(root);
-        }
+        getMax(root);
         return max;
     }
 
@@ -25,36 +20,14 @@ public class MaxPathSum {
         if (root==null){
             return 0;
         }
-        if (root.left==null&&root.right==null){
-            return root.val>0?root.val:0;
-        }
-        int left = getMax(root.left);
-        int right = getMax(root.right);
-//        if (root.val>0){
-//            tmp = Math.max(left+right+root.val,tmp);
-//            return left+right+root.val;
-//        }else {
-            tmp = Math.max(left+right+root.val,tmp);
-            if (left+right+root.val>0){
-                return left+right+root.val;
-            }else {
-                return 0;
-            }
-//        }
+        int left = Math.max(0,getMax(root.left));
+        int right = Math.max(0,getMax(root.right));
+        max = Math.max(max,root.val+left+right);
+        return root.val+Math.max(left,right);
     }
 
-    private int getMaxNodeValue(TreeNode root){
-        if (root!=null&&root.left!=null){
-            tmp = Math.max(root.val,getMaxNodeValue(root.left));
-        }
-        if (root!=null&&root.right!=null){
-            tmp = Math.max(root.val,getMaxNodeValue(root.right));
-        }
-        if (root!=null&&root.right==null&&root.left==null){
-            tmp = Math.max(root.val,tmp);
-        }
-        return tmp;
-    }
+
+
 
     public static void main(String[] args) {
         MaxPathSum maxPathSum = new MaxPathSum();

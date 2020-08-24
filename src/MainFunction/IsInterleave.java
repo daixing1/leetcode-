@@ -17,25 +17,21 @@ public class IsInterleave {
     }
 
     public static boolean isRight(int i,int j,int k,char[] c1,char[] c2,char[] c3){
-        if (i<c1.length&&j<c2.length&&k<c3.length) {
-            if (i == (c1.length - 1) && j == (c2.length - 1) && k == (c3.length - 1)) {
-                return true;
-            }
-            if (c1[i] == c2[j] && c1[i] == c3[k]) {
-                return isRight(++i, j, ++k, c1, c2, c3) || isRight(i, ++j, ++k, c1, c2, c3);
-            }
-            if (c1[i] == c3[k]) {
-                return isRight(++i, j, ++k, c1, c2, c3);
-            } else if (c2[j] == c3[k]) {
-                return isRight(i, ++j, ++k, c1, c2, c3);
-            } else {
-                return false;
-            }
-        }else {
+
+        if (i == c1.length && j == c2.length && k == c3.length) {
+            return true;
+        }
+        if (i<c1.length&&j<c2.length&&k<c3.length&&c1[i] == c2[j] && c1[i] == c3[k]) {
+            return isRight(i+1, j, k+1, c1, c2, c3) || isRight(i, j+1, k+1, c1, c2, c3);
+        }
+        if (i<c1.length&&k<c3.length&&c1[i] == c3[k]) {
+            return isRight(i+1, j, k+1, c1, c2, c3);
+        } else if (j<c2.length&&k<c3.length&&c2[j] == c3[k]) {
+            return isRight(i, j+1, k+1, c1, c2, c3);
+        } else {
             return false;
         }
     }
-
     public static void main(String[] args) {
         boolean interleave = isInterleave("aabcc", "dbbca", "aadbbcbcac");
         System.out.println(interleave);
